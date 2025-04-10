@@ -30,8 +30,3 @@ This Flask web application predicts the winning probability of a team in an IPL 
 1. Select the Batting Team, Bowling Team, Venue, Target, Score, Balls Left, and Wickets Down from the dropdowns and input fields.
 2. Click the "Predict Winning Probability" button.
 3. View the predicted winning probabilities for both the Batting and Bowling teams.
-
-
-
-## Screenshots
-<img width="948" alt="Screenshot 2024-01-19 123215" src="https://github.com/zep-analytics/IPLScorePredictor-2024/assets/103244316/fb369b8e-0ff2-43e8-9964-4d912a495e26">
